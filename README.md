@@ -1,4 +1,4 @@
-# HTML5-CSS3
- Desafios desenvolvidos durante as aulas do Curso de HTML5 e CSS3 da plataforma CursoemVideo, ministrada pelo Professor Gustavo Guanabara.
+# Projeto-Android
+ O Projeto Android é um site simples que criamos no Curso de HTML5 e CSS3 da plataforma CursoemVideo, do Professor Gustavo Guanabara. O site conta a história da criação do mascote do Android e nele pudemos exercitar os conhecimentos de HTML e estilização com CSS.
+ <a href="https://hiediferreira.github.io/projeto-android/" target="_blank">Execute o Desafio Android aqui!</a>
 
- Estou aprendendo a desenvolver sites!
